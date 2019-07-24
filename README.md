@@ -4,22 +4,18 @@ SLAM手推公式笔记
 
 # 第三章 三维空间刚体运动
 
-<center>
-<img src="./image/SLAM3.1_0.jpg " width="25%" height="25%">
+##这6张图片反了，正在解决
 
-SLAM3.1_0.jpg
+<img src="./image/SLAM3.1_0.jpg " width = 10% height = 10% div align=center/>
+<img src="./image/SLAM3.1_1.jpg " width = 10% height = 10% div align=center/>
+<img src="./image/SLAM3.1_2.jpg " width = 10% height = 10% div align=center/>
+<img src="./image/SLAM3.3_0.jpg " width = 10% height = 10% div align=center/>
+<img src="./image/SLAM3.3_1.jpg " width = 10% height = 10% div align=center/>
+<img src="./image/SLAM3.3_2.jpg " width = 10% height = 10% div align=center/>
 
-</center>
 
-
-<img src="./image/SLAM3.1_0.jpg " width = 60% height = 60% angle 90/>
-<img src="./image/SLAM3.1_1.jpg " width = 60% height = 60% />
-<img src="./image/SLAM3.1_2.jpg " width = 60% height = 60% />
-<img src="./image/SLAM3.3_0.jpg " width = 60% height = 60% />
-<img src="./image/SLAM3.3_1.jpg " width = 60% height = 60% />
-<img src="./image/SLAM3.3_2.jpg " width = 60% height = 60% />
-<img src="./image/SLAM3.3_3.jpg " width = 60% height = 60% />
-<img src="./image/SLAM3.4_1.jpg " width = 60% height = 60% />
-<img src="./image/SLAM3.4_2.jpg " width = 60% height = 60% />
-<img src="./image/SLAM3.5.jpg " width = 60% height = 60% />
+<img src="./image/SLAM3.3_3.jpg " width = 60% height = 60% div align=center/>
+<img src="./image/SLAM3.4_1.jpg " width = 60% height = 60% div align=center/>
+<img src="./image/SLAM3.4_2.jpg " width = 60% height = 60% div align=center/>
+<img src="./image/SLAM3.5.jpg " width = 60% height = 60% div align=center/>
 
