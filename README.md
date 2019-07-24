@@ -4,5 +4,5 @@ SLAM手推公式笔记
 
 # 第三章 
 
-![SLAM3.1_0.jpg](../image/SLAM3.1_0.jpg )
+![SLAM3.1_0.jpg](./image/SLAM3.1_0.jpg )
 
