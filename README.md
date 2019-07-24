@@ -4,7 +4,15 @@ SLAM手推公式笔记
 
 # 第三章 三维空间刚体运动
 
-<img src="./image/SLAM3.1_0.jpg " width = 60% height = 60% />
+<center>
+<img src="./image/SLAM3.1_0.jpg " width="25%" height="25%">
+
+SLAM3.1_0.jpg
+
+</center>
+
+
+<img src="./image/SLAM3.1_0.jpg " width = 60% height = 60% angle 90/>
 <img src="./image/SLAM3.1_1.jpg " width = 60% height = 60% />
 <img src="./image/SLAM3.1_2.jpg " width = 60% height = 60% />
 <img src="./image/SLAM3.3_0.jpg " width = 60% height = 60% />
